@@ -1,0 +1,12 @@
+body{
+	background-image: url(wall.jpg);
+}
+ .form-edit{
+ 	margin-bottom: 0;
+ }
+ .textarea-edit{
+ 	width: 100%;
+ }
+ .textarea-column{
+width: 100%;
+ }
